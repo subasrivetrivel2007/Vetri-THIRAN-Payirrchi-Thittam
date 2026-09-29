@@ -1,0 +1,6 @@
+[
+  "tests/test_app.py::test_health",
+  "tests/test_app.py::test_home_recommendations",
+  "tests/test_app.py::test_register_plan_history",
+  "tests/test_app.py::test_validation"
+]
